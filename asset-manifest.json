@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Travelio_Booking_System/static/css/main.ffa87fae.css",
+    "main.js": "/Travelio_Booking_System/static/js/main.89c4b841.js",
+    "index.html": "/Travelio_Booking_System/index.html",
+    "main.ffa87fae.css.map": "/Travelio_Booking_System/static/css/main.ffa87fae.css.map",
+    "main.89c4b841.js.map": "/Travelio_Booking_System/static/js/main.89c4b841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa87fae.css",
+    "static/js/main.89c4b841.js"
+  ]
+}
